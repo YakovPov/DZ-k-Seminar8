@@ -1,0 +1,15 @@
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.csproj.AssemblyReference.cache
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.AssemblyInfoInputs.cache
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.AssemblyInfo.cs
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.csproj.CoreCompileInputs.cache
+C:\Users\Zif\Desktop\C#\DZ_8\bin\Debug\net6.0\DZ_8.exe
+C:\Users\Zif\Desktop\C#\DZ_8\bin\Debug\net6.0\DZ_8.deps.json
+C:\Users\Zif\Desktop\C#\DZ_8\bin\Debug\net6.0\DZ_8.runtimeconfig.json
+C:\Users\Zif\Desktop\C#\DZ_8\bin\Debug\net6.0\DZ_8.dll
+C:\Users\Zif\Desktop\C#\DZ_8\bin\Debug\net6.0\DZ_8.pdb
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.dll
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\refint\DZ_8.dll
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.pdb
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\DZ_8.genruntimeconfig.cache
+C:\Users\Zif\Desktop\C#\DZ_8\obj\Debug\net6.0\ref\DZ_8.dll
